@@ -1,2 +1,9 @@
 # form-website
-My first web development project using only HTML. more projects coming soon as i continue learning.
+A simple working form website created with using only HTML.
+## Tech used
+- HTML
+## Features
+- User input form
+- submit button
+- confirmation message
+## Live demo
